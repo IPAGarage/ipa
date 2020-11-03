@@ -110,7 +110,7 @@
     "size": "17MB"
   },
   "FlappyBird_v1": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/FlappyBird_v1.2.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Games/FlappyBird_v1.2.ipa",
     "version": "v1.2",
     "last_updated": "unknown",
     "bundle_id": "com.dotgears.flap",
@@ -370,7 +370,7 @@
     "size": "1MB"
   },
   "iSSB": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/ipa/iSSB.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Games/iSSB.ipa",
     "version": "2.21-3",
     "last_updated": "unknown",
     "bundle_id": "net.hollr.issb",
@@ -640,7 +640,7 @@
     "size": "55MB"
   },
   "Fortnite": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Ipa2/Fortnite.ipa",
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Games/Fortnite.ipa",
     "version": "13.40.1",
     "last_updated": "unknown",
     "bundle_id": "com.epicgames.fortnite",
