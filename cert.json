@@ -2,51 +2,61 @@
   "Toyola":{
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/toyla/Toyola.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/toyla/Toyola.mobileprovision",
-    "password": "123"
+    "password": "123",
+    "state": "Revoked"
   },
   "Qingdao":{
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/qingdao/Qingdao.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/qingdao/Qingdao.mobileprovision",
-    "password": "123123"
+    "password": "123123",
+    "state": "Revoked"
   },
   "CB":{
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/cb/cb.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/cb/cb.mobileprovision",
-    "password": "123456"
+    "password": "123456",
+    "state": "Revoked"
   },
   "Newsstreet":{
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/Newsstreetjournal/Newsstreetjournal.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/Newsstreetjournal/Newsstreetjournal.mobileprovision",
-    "password": "123"
+    "password": "123",
+    "state": "Revoked"
   },
   "kailunan":{
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/kailunan/kailunan.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/kailunan/kailunan.mobileprovision",
-    "password": "qwe123"
+    "password": "qwe123",
+    "state": "Revoked"
   },
   "linkplay":{
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/linkplay/linkplay.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/linkplay/linkplay.mobileprovision",
-    "password": "11111111"
+    "password": "11111111",
+    "state": "Revoked"
   },
   "shenxun":{
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/shenxun/shenxun.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/shenxun/shenxun.mobileprovision",
-    "password": "123456"
+    "password": "123456",
+    "state": "Revoked"
   },
   "ChengduBlue":{
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/ChengduBlue/Chengdu%20BlueLanse%20Tide%20Technology%20Co.%2C%20Ltd.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/ChengduBlue/Chengdu%20BlueLanse%20Tide%20Technology%20Co.%2C%20Ltd.mobileprovision",
-    "password": "123123123"
+    "password": "123123123",
+    "state": "Revoked"
   },
   "SuzhouLin":{
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/SuzhouLin/SuzhouLin.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/SuzhouLin/SuzhouLin.mobileprovision",
-    "password": "1234"
+    "password": "1234",
+    "state": "Revoked"
   },
   "Shanghai":{
     "p12": "https://github.com/CrafterPika/ipa/raw/master/cert/Shanghai/Shanghai.p12",
     "mobileprovision": "https://github.com/CrafterPika/ipa/raw/master/cert/Shanghai/Shanghai.mobileprovision",
-    "password": "4455ll"
+    "password": "4455ll",
+    "state": "Revoked"
   }
 }
