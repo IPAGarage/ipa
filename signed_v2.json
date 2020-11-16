@@ -1,10 +1,11 @@
 {
   "Stores": {
-    "EonHub": "Signed: https://app.eonhubapp.com/",
-    "AppValley": "Signed! https://app.app-valley.vip",
-    "AppCake": "Signed! https://iphonecake.com/app/",
-    "TutuBox": "Signed! https://tutubox.io/install.html",
-    "iPABot": "Signed! Do ``=zsign [appname/app direct link] Fujian``",
+    "EonHub": "Revoked",
+    "AppValley": "Revoked",
+    "AppCake": "Revoked",
+    "TutuBox": "Revoked",
+    "iPABot": "Revoked",
+    "iPABot2": "Signed! Do ``=zsign [appname/app direct link] Fujian``",
     "Crimson": "Revoked"
   },
   "Jailbreaks": {
