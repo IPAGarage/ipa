@@ -60,12 +60,12 @@
     "size": "244MB"
   },
   "Odyssey": {
-    "ipa": "https://github.com/TheOdysseyJB/Odyssey/releases/download/v1.1.2/Odyssey-1.1.2.ipa",
-    "version": "1.1.2",
+    "ipa": "https://cdn.discordapp.com/attachments/668928257428815892/779284307461537792/Odyssey_1.2.ipa",
+    "version": "1.2",
     "last_updated": "23/09/2020",
     "bundle_id": "org.coolstar.odyssey",
     "author": "CoolStar and a few of his Buds",
-    "min_ios": "iOS 13.0 - 13.5",
+    "min_ios": "iOS 13.0 - 13.7",
     "Description": "A new Jailbreak Era.",
     "size": "25MB"
   },
