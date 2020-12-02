@@ -80,7 +80,7 @@
     "size": "41MB"
   },
   "Chimera": {
-    "ipa": "https://github.com/coolstar/electra-ipas/blob/master/chimera/1.5.0b1-12.0-12.4.ipa?raw=true",
+    "ipa": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.5.0-12.0-12.4.ipa",
     "version": "1.5.0b1",
     "last_updated": "11/30/2020",
     "bundle_id": "com.electrateam.chimera",
@@ -90,7 +90,7 @@
     "size": "87MB"
   },
   "Chimera-Slim": {
-    "ipa": "https://github.com/coolstar/electra-ipas/blob/master/chimera/1.5.0b1-12.2-12.4.ipa?raw=true",
+    "ipa": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.5.0-12.2-12.4.ipa",
     "version": "1.5.0b1",
     "last_updated": "11/30/2020",
     "bundle_id": "com.electrateam.chimera",
