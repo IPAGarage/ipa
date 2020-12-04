@@ -788,5 +788,15 @@
     "min_ios": "iOS 10.1 or later",
     "Description": "iOS 9.0 - 9.3.4 JB (32-bit)",
     "size": "26MB"
-  }
+  },
+  "ReBrawl": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/hacked_games/rebrawl-classic-66.ipa",
+    "version": "27.270",
+    "last_updated": "27/11/2020",
+    "bundle_id": "com.rebrawl.ios",
+    "author": "ReBrawl Team",
+    "min_ios": "iOS 9.0 or later",
+    "Description": "reBrawl is the best private server for Brawl Stars.",
+    "size": "232,8 MB"
+  } 
 }
