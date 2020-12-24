@@ -798,5 +798,15 @@
     "min_ios": "iOS 9.0 or later",
     "Description": "reBrawl is the best private server for Brawl Stars.",
     "size": "232,8 MB"
-  } 
+  },
+  "Darkroom": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Tweaked_Apps/Darkroom_.Photo.Video.Editor.Modded.No.Jailbreak.Cheats.5.1.3.Hacked.IPA.by.iOSGods.com.ipa",
+    "version": "5.1.3",
+    "last_updated": "idk, ask iOSGods",
+    "bundle_id": "com.iosgods.darkroom",
+    "author": "iOSGods",
+    "min_ios": "13.0+",
+    "Description": "Some modded Photo app idk",
+    "size": "20.5 MB"
+  }
 }
