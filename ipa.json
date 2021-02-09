@@ -808,5 +808,15 @@
     "min_ios": "13.0+",
     "Description": "Some modded Photo app idk",
     "size": "20.5 MB"
-  }
+  },
+  "NineAnimator": {
+    "ipa": "https://github.com/SuperMarcus/NineAnimator/releases/download/1.2.7-5/NineAnimator_1.2.7_Build_5.ipa",
+    "version": "1.2.7 Build 5",
+    "last_updated": "27/1/2021",
+    "bundle_id": "com.marcuszhou.NineAnimatorS6",
+    "author": "SuperMarcus",
+    "min_ios": "12.0+",
+    "Description": "A simple yet elegant way of waching anime on your favorite anime websites.",
+    "size": "101 MB"
+  },
 }
