@@ -811,7 +811,17 @@
   },
   "PlankFilza": {
     "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/PlankFilza.ipa",
-    "version": "v3.8",
+    "version": "v1.0",
+    "last_updated": "15/02/2021",
+    "bundle_id": "org.brandonplank.plankfilza",
+    "author": "Brandon Plank",
+    "min_ios": "iOS 14.0 - 14.3",
+    "Description": "Filza but no JB",
+    "size": "12.7MB"
+  },
+  "PlankFilzaAlternate": {
+    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/PlankFilza_framework.ipa",
+    "version": "v1.0",
     "last_updated": "15/02/2021",
     "bundle_id": "org.brandonplank.plankfilza",
     "author": "Brandon Plank",
