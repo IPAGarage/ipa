@@ -70,14 +70,14 @@
     "size": "25MB"
   },
   "unc0ver": {
-    "ipa": "https://github.com/CrafterPika/ipa/releases/download/Jailbreaks/unc0ver_5.3.1.ipa",
-    "version": "5.3.1",
-    "last_updated": "23/07/2020",
+    "ipa": "https://github.com/IPAGarage/IPA-Library/releases/download/JB/unc0ver_6.0.0.ipa",
+    "version": "6.0.0",
+    "last_updated": "27/02/2021",
     "bundle_id": "science.xnu.undecimus",
     "author": "pwn20wnd & SBinger",
-    "min_ios": "iOS 11.0 - 13.5",
+    "min_ios": "iOS 11.0 - 14.3",
     "Description": "The most advanced jailbreak tool.",
-    "size": "41MB"
+    "size": "56MB"
   },
   "Chimera": {
     "ipa": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.5.0-12.0-12.4.ipa",
